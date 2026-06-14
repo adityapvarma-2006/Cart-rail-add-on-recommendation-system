@@ -414,3 +414,8 @@ This project demonstrates an end-to-end recommendation workflow for food deliver
 6. Produce explainable cart rail recommendations
 
 It is designed to be understandable, reproducible, and easy to extend.
+
+## Contributors
+
+- @adityapvarma-2006
+- @iota-me24b079
